@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.2.0",
+  "iOS" : [
+    {
+      "name" : "JSQMessages",
+      "hash" : "85e869cc1010f0303f693f6383fef527eaa151bd9f2caef6f00610af456782a0"
+    }
+  ]
+}
